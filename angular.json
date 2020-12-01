@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "intern"
+  "defaultProject": "intern",
+  "cli": {
+    "analytics": "db1b2958-c218-4b19-9ebd-76bcbfab88d1"
+  }
 }
